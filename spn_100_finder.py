@@ -92,7 +92,7 @@ def process_can_data(input_file, output_file):
         print(f"Error processing file: {str(e)}")
 
 # Let's also create proper test data
-def create_test_data(filename="can_data_input_test.csv"):
+def create_test_data(filename="can_data_input_test_spn_100.csv"):
     """
     Create test data file with correct format
     """
